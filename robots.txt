@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://lentatma.github.io/sitemap
+Sitemap: https://lentatma.github.io/app/sitemap
+Sitemap: https://lentatma.github.io/assets/sitemap
+Sitemap: https://lentatma.github.io/css/sitemap
+Sitemap: https://lentatma.github.io/includes/sitemap
+Sitemap: https://lentatma.github.io/item/sitemap
+Sitemap: https://lentatma.github.io/src/sitemap
